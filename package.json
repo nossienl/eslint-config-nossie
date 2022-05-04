@@ -1,0 +1,31 @@
+{
+  "name": "eslint-config-nossie",
+  "version": "1.0.0",
+  "description": "test lint rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nossienl/eslint-config-nossie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nossienl/eslint-config-nossie/issues"
+  },
+  "homepage": "https://github.com/nossienl/eslint-config-nossie#readme",
+  "dependencies": {
+    "eslint": "^6 || ^7.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.0.0"
+  },
+  "peerDependencies": {
+    "eslint": "^6 || ^7.2.0",
+    "prettier": "^2.6.2"
+  }
+}
