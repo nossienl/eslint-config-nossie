@@ -1,6 +1,6 @@
 module.exports = {
   // eslint-configs
-  extends: ['airbnb/base', 'plugin:prettier/recommended'],
+  extends: ['airbnb-base', 'plugin:prettier/recommended'],
   // eslint-plugins
   plugins: ['simple-import-sort'],
   // enabling/disabling/changing level of rules
